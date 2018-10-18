@@ -1,4 +1,4 @@
-Installation and depencies-
+Installation and dependencies-
 ~Install Node compatible with the browser
 
 Create React Application
